@@ -144,3 +144,6 @@ tls-version-min 1.2
 [Southafrica-(johannesburg#1).conf](https://github.com/dedshit/vpn-config/files/11026401/Southafrica-.johannesburg.conf.txt) - **IP: 160.119.248.102**
 
 [Switzerland-(zurich#1).conf](https://github.com/dedshit/vpn-config/files/11026466/Switzerland-.zurich.1.conf.txt) - **IP: 194.124.33.251**
+
+[Sweden-(stockholm#1).conf](https://github.com/dedshit/vpn-config/files/11026552/Sweden-.stockholm.1.conf.txt) - **IP: 
+65.21.3.79**
