@@ -122,4 +122,7 @@ tls-version-min 1.2
 
 [Ireland-(Dublin#1).conf](https://github.com/dedshit/vpn-config/files/11025535/Ireland-.Dublin.1.conf.txt)  -  **IP: 65.108.214.221**
 
-[Canada-(Montreal#1).conf](https://github.com/dedshit/vpn-config/files/11025545/Canada-.Montreal.1.conf.txt) - **IP: 66.70.189.216**   
+[Canada-(Montreal#1).conf](https://github.com/dedshit/vpn-config/files/11025545/Canada-.Montreal.1.conf.txt) - **IP: 66.70.189.216**
+
+[Russia-(Moscow#1).ovpn](https://github.com/dedshit/vpn-config/files/11025577/Russia-.Moscow.1.ovpn.txt) - **IP: 92.38.139.204**
+
