@@ -119,3 +119,5 @@ tls-version-min 1.2
 [Australia-[Adelaide#1].conf](https://github.com/dedshit/vpn-config/files/11025430/Australia-.Adelaide.1.conf.txt)  -  **IP: 154.26.157.50**
 
 [Romaina-[Bucharest#1].conf](https://github.com/dedshit/vpn-config/files/11025461/Romaina-.Bucharest.1.conf.txt)   -   **IP: 213.156.142.191**
+
+[Ireland-(Dublin#1).conf](https://github.com/dedshit/vpn-config/files/11025535/Ireland-.Dublin.1.conf.txt)  -  **IP: 65.108.214.221**
