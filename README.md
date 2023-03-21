@@ -1,3 +1,4 @@
+[Australia-[Adelaide#1].conf.txt](https://github.com/dedshit/vpn-config/files/11025429/Australia-.Adelaide.1.conf.txt)
 # vpn-config
 
  ### Another random shit, here i will upload free & premium either in ovpn or conf file format from this apk.You can use openvpn to access these this files
@@ -8,7 +9,7 @@
   
   ![](https://user-images.githubusercontent.com/62318734/226526269-b808d28e-4ab8-432f-b553-312b7f771eaa.png)
   
-  # Kiev-1 (premium) [**SAMPLE**]
+  # Ukraine-{Kiev-1} (premium) [**SAMPLE**]
    
    ## Config for OpenVPN 2.x
 ## Enables connection to GUI/TERMINAL
@@ -115,4 +116,6 @@ tls-version-min 1.2
 ```
 
 [NewZealand-[Auckland#1].conf](https://github.com/dedshit/vpn-config/files/11025412/NewZealand-.Auckland.1.conf.txt)
+
+[Australia-[Adelaide#1].conf](https://github.com/dedshit/vpn-config/files/11025430/Australia-.Adelaide.1.conf.txt)
 
