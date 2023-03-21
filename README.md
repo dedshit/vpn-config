@@ -1,6 +1,6 @@
 # vpn-config
 
- ### Another random shit, here i will upload free & premium either in opvn or conf file format from this apk.You can use openvpn to access these this files
+ ### Another random shit, here i will upload free & premium either in ovpn or conf file format from this apk.You can use openvpn to access these this files
 
   ## VPN Indonesia-Unlimited VPN
    
