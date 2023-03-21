@@ -1,6 +1,6 @@
 # vpn-config
 
- ### Another random shit, here i will upload free & premium either in ovpn or conf file format from this apk.You can use openvpn to access these this files
+ ### Another random shit, here i will upload free & premium either in ovpn or conf file format from this apk.You can use openvpn to access these files
 
   ## VPN Indonesia-Unlimited VPN
    
@@ -137,3 +137,6 @@ tls-version-min 1.2
 [Israel-(tel aviv).conf](https://github.com/dedshit/vpn-config/files/11025973/Israel-.tel.aviv.conf.txt) - **IP: 45.150.108.221**
 
 [Vietnam-(hanoi#1).conf](https://github.com/dedshit/vpn-config/files/11026036/Vietnam-.hanoi.1.conf.txt) - **IP: 103.164.138.172**
+
+[Hongkong-(central#1).conf](https://github.com/dedshit/vpn-config/files/11026253/Hongkong-.central.1.conf.txt) - **IP: 
+2.56.149.59**
