@@ -147,3 +147,6 @@ tls-version-min 1.2
 
 [Sweden-(stockholm#1).conf](https://github.com/dedshit/vpn-config/files/11026552/Sweden-.stockholm.1.conf.txt) - **IP: 
 65.21.3.79**
+
+[Spain-(valencia#1).conf](https://github.com/dedshit/vpn-config/files/11026648/Spain-.valencia.1.conf.txt) - **IP: 
+5.189.222.29**
