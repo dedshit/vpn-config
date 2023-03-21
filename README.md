@@ -152,3 +152,5 @@ tls-version-min 1.2
 5.189.222.29**
 
 [Serbia-(belgrade#1).conf](https://github.com/dedshit/vpn-config/files/11026784/Serbia-.belgrade.1.conf.txt) - **IP: 213.156.142.189**
+
+[Czechia-(prague#1).conf](https://github.com/dedshit/vpn-config/files/11027011/Czechia-.prague.1.conf.txt) - **IP: 77.75.230.185**
