@@ -126,3 +126,4 @@ tls-version-min 1.2
 
 [Russia-(Moscow#1).ovpn](https://github.com/dedshit/vpn-config/files/11025577/Russia-.Moscow.1.ovpn.txt) - **IP: 92.38.139.204**
 
+[Greece-(Athens#1).ovpn](https://github.com/dedshit/vpn-config/files/11025587/Greece-.Athens.1.ovpn.txt) - **IP: 89.44.197.183**
