@@ -113,3 +113,6 @@ tls-cipher TLS-ECDHE-ECDSA-WITH-AES-128-GCM-SHA256
 ignore-unknown-option block-outside-dns 
 tls-version-min 1.2
 ```
+
+[NewZealand-[Auckland#1].conf](https://github.com/dedshit/vpn-config/files/11025412/NewZealand-.Auckland.1.conf.txt)
+
