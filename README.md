@@ -1,4 +1,3 @@
-[Australia-[Adelaide#1].conf.txt](https://github.com/dedshit/vpn-config/files/11025429/Australia-.Adelaide.1.conf.txt)
 # vpn-config
 
  ### Another random shit, here i will upload free & premium either in ovpn or conf file format from this apk.You can use openvpn to access these this files
@@ -115,7 +114,8 @@ ignore-unknown-option block-outside-dns
 tls-version-min 1.2
 ```
 
-[NewZealand-[Auckland#1].conf](https://github.com/dedshit/vpn-config/files/11025412/NewZealand-.Auckland.1.conf.txt)
+[NewZealand-[Auckland#1].conf](https://github.com/dedshit/vpn-config/files/11025412/NewZealand-.Auckland.1.conf.txt)  - **IP: 154.26.156.204**
 
-[Australia-[Adelaide#1].conf](https://github.com/dedshit/vpn-config/files/11025430/Australia-.Adelaide.1.conf.txt)
+[Australia-[Adelaide#1].conf](https://github.com/dedshit/vpn-config/files/11025430/Australia-.Adelaide.1.conf.txt)  -  **IP: 154.26.157.50**
 
+[Romaina-[Bucharest#1].conf](https://github.com/dedshit/vpn-config/files/11025461/Romaina-.Bucharest.1.conf.txt)   -   **IP: 213.156.142.191**
