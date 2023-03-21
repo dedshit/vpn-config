@@ -150,3 +150,5 @@ tls-version-min 1.2
 
 [Spain-(valencia#1).conf](https://github.com/dedshit/vpn-config/files/11026648/Spain-.valencia.1.conf.txt) - **IP: 
 5.189.222.29**
+
+[Serbia-(belgrade#1).conf](https://github.com/dedshit/vpn-config/files/11026784/Serbia-.belgrade.1.conf.txt) - **IP: 213.156.142.189**
