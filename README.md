@@ -131,3 +131,5 @@ tls-version-min 1.2
 [Philippines-(manila#1).ovpn](https://github.com/dedshit/vpn-config/files/11025594/Philippines-.manila.1.ovpn.txt) - **IP: 194.233.91.251**
 
 [Azerbaijan-(baku).ovpn](https://github.com/dedshit/vpn-config/files/11025616/Azerbaijan-.baku.ovpn.txt) - **IP: 180.149.44.17**
+
+[Thailand-(bangkok).ovpn](https://github.com/dedshit/vpn-config/files/11025655/Thailand-.bangkok.ovpn.txt) - **IP: 194.233.91.252**
