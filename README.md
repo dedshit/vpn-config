@@ -121,3 +121,5 @@ tls-version-min 1.2
 [Romaina-[Bucharest#1].conf](https://github.com/dedshit/vpn-config/files/11025461/Romaina-.Bucharest.1.conf.txt)   -   **IP: 213.156.142.191**
 
 [Ireland-(Dublin#1).conf](https://github.com/dedshit/vpn-config/files/11025535/Ireland-.Dublin.1.conf.txt)  -  **IP: 65.108.214.221**
+
+[Canada-(Montreal#1).conf](https://github.com/dedshit/vpn-config/files/11025545/Canada-.Montreal.1.conf.txt) - **IP: 66.70.189.216**   
