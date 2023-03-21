@@ -133,3 +133,5 @@ tls-version-min 1.2
 [Azerbaijan-(baku).ovpn](https://github.com/dedshit/vpn-config/files/11025616/Azerbaijan-.baku.ovpn.txt) - **IP: 180.149.44.17**
 
 [Thailand-(bangkok).ovpn](https://github.com/dedshit/vpn-config/files/11025655/Thailand-.bangkok.ovpn.txt) - **IP: 194.233.91.252**
+
+[Israel-(tel aviv).conf](https://github.com/dedshit/vpn-config/files/11025973/Israel-.tel.aviv.conf.txt) - **IP: 45.150.108.221**
